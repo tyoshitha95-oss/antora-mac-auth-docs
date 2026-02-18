@@ -157,6 +157,7 @@ WHERE REMOTEID = 'SSID_NAME' AND CIRCUITID = 'CIRCUIT_ID' AND STATUS=1
 ----
 my $unixdaytime = 3600*$hour + $min*60 + $sec;
 # Check against TIMESPAN ranges like "28800-64800" (8 AM - 6 PM)
+
 ----
 
 

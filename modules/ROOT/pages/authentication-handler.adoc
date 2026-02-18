@@ -57,3 +57,4 @@ if ($locdata[6] == 1) {  # Daily reset
 }
 ----
 
+

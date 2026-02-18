@@ -28,3 +28,4 @@
 *  pass:[<span style="color:blue;font-weight:600">Monitoring and Trouble Shooting</span>]
 	* xref:key-log-messages.adoc[Key Log Messages]
 	* xref:database-monitoring-queries.adoc[Database Monitoring Queries]
+	

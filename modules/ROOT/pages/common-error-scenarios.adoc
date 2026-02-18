@@ -22,3 +22,4 @@ pass:[<span style="color:blue;font-weight:600">Database Errors</span>] : SQL exe
 
 pass:[<span style="color:blue;font-weight:600">Invalid Attributes</span>] : Missing required RADIUS attributes 
   Required RADIUS attributes (e.g., `User-Name`, `NAS-Port-Id`, `Acct-Status-Type`) are missing or malformed.
+  

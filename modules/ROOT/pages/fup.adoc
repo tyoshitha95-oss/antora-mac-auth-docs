@@ -18,3 +18,4 @@ A predefined capped data allowance applied under FUP conditions.
 
 pass:[<span style="color:blue;font-weight:600">Time Cap</span>] : Based on reset window and restrictions
 Allowed usage time is limited according to the configured reset interval and active time span rules.
+

@@ -18,3 +18,4 @@ pass:[<span style="color:blue;font-weight:600">Time Quata</span>] → `TIMEQUOTA
 
 pass:[<span style="color:blue;font-weight:600">Volume Quata</span>] → `VOLUMEQUOTA` (bytes)  
   Maximum allowed data usage (upload + download) within the reset period.
+  

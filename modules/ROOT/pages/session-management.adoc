@@ -18,3 +18,4 @@ pass:[<span style="color:blue;font-weight:600">FUP  Timeout</span>] : 3600 secon
 
 pass:[<span style="color:blue;font-weight:600">FUP Idle Timeout</span>] : 1800 seconds  
   Idle disconnection time remains unchanged under FUP conditions.
+  
