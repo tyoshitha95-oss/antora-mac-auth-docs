@@ -1,6 +1,6 @@
 site:
   title: Monyfi AAA
-  start_page: ROOT::home.adoc 
+  start_page: ROOT::pages/index.adoc 
 content:
   sources:
   - url: .
